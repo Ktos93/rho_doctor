@@ -9,6 +9,27 @@
       <manifestFlags>INTERIOR_DATA</manifestFlags>
       <itypDepArray>
         <Item>rho_doctor_int</Item>
+	<Item>s_cs_objects</Item>
+	<Item>p_plant</Item>
+	<Item>p_door</Item>
+	<Item>p_store</Item>
+	<Item>s_set_pieces</Item>
+	<Item>int_lootable</Item>
+	<Item>p_seating</Item>
+	<Item>int_saloon</Item>
+	<Item>p_household</Item>
+	<Item>p_roadside</Item>
+	<Item>int_office</Item>
+	<Item>p_office</Item>
+	<Item>p_tool</Item>
+	<Item>p_bedroom</Item>
+	<Item>p_light_hanging01</Item>
+	<Item>p_light_wall01</Item>
+	<Item>p_furniture</Item>
+	<Item>p_kitchen</Item>
+	<Item>p_light_ground01</Item>
+	<Item>s_minigame</Item>
+	<Item>int_doctor_office</Item>
       </itypDepArray>
   </Item>
   <Item>
